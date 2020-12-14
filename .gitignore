@@ -40,5 +40,5 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-# Res folder
-res/
+# Pub generated
+pubspec.lock
